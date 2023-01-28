@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/portafolio', function () {
     return view('portafolio');
 })->name('portafolio');
+
+Route::get('/contrato', function () {
+    return view('contrato');
+})->name('contrato');

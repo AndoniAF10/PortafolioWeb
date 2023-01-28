@@ -45,7 +45,7 @@
                   <div class="d-flex w-100 gap-2">
                     <label for="newsletter1" class="visually-hidden">Email address</label>
                     <input id="newsletter1" type="text" class="form-control" placeholder="Correo electronico">
-                    <textarea class="form-control" placeholder="Leave a comment here"></textarea>
+                    <textarea class="form-control" placeholder="Escribe tus comentarios aquí"></textarea>
                     <button class="btn btn-primary" type="button">Enviar</button>
                   </div>
                 </form>
